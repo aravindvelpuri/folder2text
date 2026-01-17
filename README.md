@@ -166,35 +166,6 @@ lib/
 
 ---
 
-## 📌 Roadmap
-
-* [ ] File type filters
-* [ ] `.gitignore` support
-* [ ] ZIP export
-* [ ] Dark mode toggle
-* [ ] macOS & Linux builds
-* [ ] Auto-update support
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a feature branch
-3. Commit changes
-4. Open a Pull Request
-
----
-
-## 📄 License
-
-MIT License
-© 2026 Aravind Projects
-
----
-
 ## ⭐ Support
 
 If you find this project useful:
@@ -204,5 +175,3 @@ If you find this project useful:
 * 💡 Suggest features
 
 ---
-
-### 🚀 Folder2Text — Turn folders into clean, shareable text.
