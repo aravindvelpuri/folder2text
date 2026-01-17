@@ -1,0 +1,111 @@
+############################################################
+# Miscellaneous
+############################################################
+*.class
+*.log
+*.pyc
+*.swp
+*.lock
+*.tmp
+*.bak
+*.old
+.DS_Store
+Thumbs.db
+desktop.ini
+.history
+.svn/
+.atom/
+.build/
+.buildlog/
+.swiftpm/
+migrate_working_dir/
+
+############################################################
+# IntelliJ / Android Studio
+############################################################
+*.iml
+*.ipr
+*.iws
+.idea/
+
+############################################################
+# VS Code (optional – keep commented if you want settings)
+############################################################
+#.vscode/
+
+############################################################
+# Flutter / Dart / Pub
+############################################################
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+############################################################
+# Flutter Web
+############################################################
+lib/generated_plugin_registrant.dart
+
+############################################################
+# Android
+############################################################
+android/app/debug
+android/app/profile
+android/app/release
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+############################################################
+# iOS / macOS
+############################################################
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/.last_build_id
+macos/Pods/
+macos/Flutter/ephemeral/
+
+############################################################
+# Windows (IMPORTANT for your app)
+############################################################
+windows/flutter/ephemeral/
+windows/build/
+*.exe
+*.msi
+*.dll
+*.pdb
+
+############################################################
+# Linux
+############################################################
+linux/flutter/ephemeral/
+linux/build/
+
+############################################################
+# Installer / Distribution (VERY IMPORTANT)
+############################################################
+installer/
+dist/
+release/
+
+############################################################
+# Logs
+############################################################
+*.log
+
+############################################################
+# Environment / Secrets
+############################################################
+.env
+.env.*
